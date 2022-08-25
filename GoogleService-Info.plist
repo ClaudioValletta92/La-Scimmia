@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>660955330106-h9t0nkrt7nf1jsuehglgsffjruu8v2t4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.660955330106-h9t0nkrt7nf1jsuehglgsffjruu8v2t4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBO1KKu4N4i92U52HTXWOaELNbWEe7MqUI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>660955330106</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Claudio.LaScimmia2</string>
+	<key>PROJECT_ID</key>
+	<string>scimmiapp-ecd35</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scimmiapp-ecd35.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:660955330106:ios:cff340bd1aff36a3</string>
+	<key>DATABASE_URL</key>
+	<string>https://scimmiapp-ecd35.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-6793431177650420~3140001911</string>
+</dict>
+</plist>
